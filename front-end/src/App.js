@@ -78,7 +78,7 @@ function App() {
 
 return (
   <div>
-      <h1>QR Code 生成器</h1>
+      <h1>QR Code +Unsplash 生成器</h1>
         <Loading isLoading={isLoading}/>
         <button type='submit' onClick={clickHandler}>下一張</button>
         <br/>
